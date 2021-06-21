@@ -1,14 +1,30 @@
-# TSF-GRIP-TASKS
-These are some ofthe tasks given to us in the internship we are doing with The Sparks Foundation i.e GRIP(Graduate Rotational Internship Program )
+# The Sparks Foundation Data Science and Business Analytics Internship Tasks
 
-Task 1 - To Explore Supervised Machine Learning In this regression task, we will predict the percentage of marks that a student is expected to score based upon the number of hours they studied. This is a simple linear regression task as it involves just two variables. What will be predicted score if a student study for 9.25 hrs in a day?
+This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
 
-Task 1 dataset- http://bit.ly/w-data
+Internship Category - Data Science and Business Analytics
+Internship Duration - 1 Month ( June-2021 )
+Internship Type - Work from Home
 
-Task 2 - To Explore Unsupervised Machine Learning From the given ‘Iris’ dataset,we will predict the optimum number of clusters and represent it visually.
+# Task-1 : Prediction using Supervised ML 
+● Predict the percentage of an student based on the no. of study hours.
 
-Task 2 dataset- https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view?usp=sharing
+● What will be predicted score if a student studies for 9.25 hrs/ day?
 
-Task 6 - To Explore Decision Tree Algorithm.For the given ‘Iris’ dataset, create the Decision Tree classifier andvisualize it graphically. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
+● This is a simple linear regression task as it involves just 2 variables.
 
-Task 6 dataset- https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view?usp=sharing
+● Dataset : http://bit.ly/w-data
+
+
+# Task-2 : Prediction using Unsupervised ML
+● From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+
+● Dataset : https://bit.ly/3kXTdox
+
+# Task-6 : Prediction using Decision Tree Algorithm
+● Create the Decision Tree classifier and visualize it graphically.
+
+● The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
+
+● Dataset : https://bit.ly/3kXTdox
+
